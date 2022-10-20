@@ -1,0 +1,15 @@
+/* @import '../../styles/variables.module.scss'; */
+
+.card {
+  margin: 1rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  /* background-color: aquamarine; */
+}
+.width {
+  width: "30rem";
+}
